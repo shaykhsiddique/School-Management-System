@@ -1,0 +1,1 @@
+<a href="index.html">Start Game</a>
